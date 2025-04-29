@@ -1,2 +1,3 @@
 # c
-hi
+print "hello"
+
